@@ -1,7 +1,7 @@
 # BastionAI: Secure Infrastructure for AI Brands
 ### **Designed for professional agents, built for data sovereignty.**
 
-**BastionAI provides a robust, multi-tenant foundation for businesses looking to deploy proprietary AI agents with complete control. We simplify the complexities of LLM integration and deployment, replacing them with a privacy-first architecture—utilizing Postgres Row-Level Security (RLS) for logical data isolation and transparent, auditable code.**
+**_BastionAI provides a robust, multi-tenant foundation for businesses looking to deploy proprietary AI agents with complete control. We simplify the complexities of LLM integration and deployment, replacing them with a privacy-first architecture—utilizing Postgres Row-Level Security (RLS) for logical data isolation and transparent, auditable code._**
 
 *Built in alignment with European standards for privacy and data protection, BastionAI allows you to scale your AI brand on a reliable, secure, and sovereign foundation.*
 
